@@ -1,0 +1,15 @@
+.userTable {
+  border: 2px solid #000;
+}
+
+.userTable td,
+.userTable,
+th {
+  border: 1px solid gray;
+  padding: 0.9rem;
+  font-size: 1rem;
+}
+
+.userTable td img {
+  width: 140px;
+}

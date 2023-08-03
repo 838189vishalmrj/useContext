@@ -1,0 +1,22 @@
+.loginForm {
+  display: flex;
+  flex-direction: column;
+  max-width: 600px;
+  gap: 20px;
+  border: 2px solid black;
+  padding: 3rem;
+  margin: 60px auto;
+}
+
+.loginForm input {
+  padding: 10px;
+  font-size: 1rem;
+  width: 100%;
+}
+
+.loginForm button {
+  width: 100px;
+  padding: 10px 20px;
+  font-size: 1rem;
+  margin: auto;
+}
